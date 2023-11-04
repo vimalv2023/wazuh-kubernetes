@@ -1,0 +1,2 @@
+# wazuh-kubernetes
+wazuh-kubernetes
